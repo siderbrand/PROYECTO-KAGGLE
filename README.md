@@ -14,3 +14,5 @@
 # Claudia Rocha
 # C.C 1143463302
 # Ingeniería de sistemas
+
+Enlace del vídeo - Segunda entrega: https://youtu.be/wg6kR-X39es
